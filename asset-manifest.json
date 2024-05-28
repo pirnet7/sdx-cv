@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/sdx-cv/static/css/main.7226bf8e.css",
-    "main.js": "/sdx-cv/static/js/main.d86d0c2d.js",
+    "main.css": "/sdx-cv/static/css/main.4ff77b5c.css",
+    "main.js": "/sdx-cv/static/js/main.a0e6c9b8.js",
     "static/media/SportsHobby.jpg": "/sdx-cv/static/media/SportsHobby.9853d7cec920a4818d47.jpg",
     "static/media/FishingHobby.jpg": "/sdx-cv/static/media/FishingHobby.dd8fb942290e19efa1a7.jpg",
     "static/media/CampingHobby.jpg": "/sdx-cv/static/media/CampingHobby.806bec525696909c007e.jpg",
     "static/media/headerBackground.jpg": "/sdx-cv/static/media/headerBackground.4ee9f5898ba5abf1c35a.jpg",
-    "static/media/cv.pdf": "/sdx-cv/static/media/cv.5990a2e0349e4a777c41.pdf",
+    "static/media/CV-Bruno.pdf": "/sdx-cv/static/media/CV-Bruno.5990a2e0349e4a777c41.pdf",
     "index.html": "/sdx-cv/index.html",
-    "static/media/getFetch.cjs": "/sdx-cv/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.7226bf8e.css.map": "/sdx-cv/static/css/main.7226bf8e.css.map",
-    "main.d86d0c2d.js.map": "/sdx-cv/static/js/main.d86d0c2d.js.map"
+    "main.4ff77b5c.css.map": "/sdx-cv/static/css/main.4ff77b5c.css.map",
+    "main.a0e6c9b8.js.map": "/sdx-cv/static/js/main.a0e6c9b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.7226bf8e.css",
-    "static/js/main.d86d0c2d.js"
+    "static/css/main.4ff77b5c.css",
+    "static/js/main.a0e6c9b8.js"
   ]
 }
